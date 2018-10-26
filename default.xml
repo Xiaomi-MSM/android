@@ -45,7 +45,7 @@
   <project path="vendor/xiaomi/rosy" name="Xiaomi-MSM/android_vendor_xiaomi_rosy" remote="github" revision="lineage-15.1" />
   
   <!-- Kernel -->
-  <project path="kernel/xiaomi/rosy" name="muralivijay/android_kernel_xioami_rosy" remote="github" revision="lineage-15.1" />
+  <project path="kernel/xiaomi/rosy" name="Teamlions/android_kernel_xiaomi_rosy" remote="github" revision="lineage-15.1" />
   
   <project path="art" name="LineageOS/android_art" groups="pdk" />
   <project path="bionic" name="LineageOS/android_bionic" groups="pdk" />
